@@ -1,0 +1,18 @@
+# Core numeric + data handling
+numpy==1.26.4
+pandas==2.2.3
+
+# Plotting
+matplotlib==3.9.2
+
+# Scikit-learn ecosystem
+scikit-learn==1.5.2
+
+# Gradient boosting
+xgboost==2.1.1
+
+# Deep learning
+tensorflow==2.20.0
+
+# Optional but common runtime helpers
+typing_extensions>=4.9.0

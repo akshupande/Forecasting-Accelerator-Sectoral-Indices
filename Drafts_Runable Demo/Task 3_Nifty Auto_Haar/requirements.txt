@@ -1,0 +1,8 @@
+# requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pywavelets
+xgboost
